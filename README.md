@@ -1,8 +1,9 @@
-1. Login Page
+1.Forgot Password Page
+Forgot Password Page Screenshot
+
+2.Login Page
 Login Page Screenshot
 
-2. Sign Up / Register Page
+3. Sign Up / Register Page
 Register Page Screenshot
 
-3. Forgot Password Page
-Forgot Password Page Screenshot
